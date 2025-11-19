@@ -10,7 +10,8 @@
 #include<math.h>
 #include<stdlib.h>
 #include<time.h>
-
+#include<vector>
+#include<unordered_map>
 #include<fstream>
 
 #define PI 3.14159
@@ -42,6 +43,12 @@ enum Scene {
             CREDITS,
             HELP,
             QUIT
+        };
+enum Type {
+            GADGET,
+            GIZMO,
+            WEAPON,
+            TRAINING
         };
 
 #endif // _COMMON_H
