@@ -1,0 +1,344 @@
+# depslib dependency file v1.0
+1763564388 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<_scene.h>
+	<_scenemanager.h>
+
+1763564349 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_scene.h
+	<_common.h>
+	<_light.h>
+	<_model.h>
+	<_inputs.h>
+	<_textureloader.h>
+	<_parallax.h>
+	<_skybox.h>
+	<_sprite.h>
+	<_timer.h>
+	<_3dmodelloader.h>
+	<_camera.h>
+	<_bullets.h>
+	<_collisioncheck.h>
+	<_sounds.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_common.h
+	<iostream>
+	<windows.h>
+	<string>
+	<gl/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1756943133 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_light.h
+	<_common.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_model.h
+	<_common.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_inputs.h
+	<_common.h>
+	<_model.h>
+	<_parallax.h>
+	<_skybox.h>
+	<_sprite.h>
+	<_camera.h>
+	<_3dmodelloader.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_parallax.h
+	<_common.h>
+	<_textureLoader.h>
+	<_timer.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_textureloader.h
+	<_common.h>
+	<SOIL.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\soil.h
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_timer.h
+	<_common.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_skybox.h
+	<_common.h>
+	<_textureloader.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_sprite.h
+	<_common.h>
+	<_textureloader.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_camera.h
+	<_common.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_3dmodelloader.h
+	<_common.h>
+	<_textureloader.h>
+	"Anorms.h"
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\anorms.h
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_bullets.h
+	<_common.h>
+	<_textureloader.h>
+	<_timer.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_collisioncheck.h
+	<_common.h>
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_sounds.h
+	<_common.h>
+	<SNDS/irrKlang.h>
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_irrklangtypes.h
+	<wchar.h>
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_esoundoutputdrivers.h
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_esoundengineoptions.h
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_estreammodes.h
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1762827588 c:\users\danie\onedrive\desktop\3dgames-2025\common\include\snds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1763564349 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_scenemanager.h
+	<_scene.h>
+	<_level1.h>
+	<_level2.h>
+	<_level3.h>
+	<_menu.h>
+
+1763564214 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_level1.h
+	<_common.h>
+	<_light.h>
+	<_model.h>
+	<_player.h>
+	<_inputs.h>
+	<_textureLoader.h>
+	<_parallax.h>
+	<_timer.h>
+	<_skybox.h>
+	<_sprite.h>
+	<_3DModelLoader.h>
+	<_camera.h>
+	<_bullets.h>
+	<_collisionCheck.h>
+	<_sounds.h>
+	<_scene.h>
+
+1763586933 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_player.h
+	<_3dmodelloader.h>
+
+1763587419 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_level2.h
+	<_common.h>
+	<_light.h>
+	<_model.h>
+	<_inputs.h>
+	<_textureloader.h>
+	<_parallax.h>
+	<_skybox.h>
+	<_sprite.h>
+	<_timer.h>
+	<_3dmodelloader.h>
+	<_camera.h>
+	<_bullets.h>
+	<_collisioncheck.h>
+	<_sounds.h>
+	<_scene.h>
+	<_player2.h>
+
+1763564369 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_level3.h
+	<_common.h>
+	<_light.h>
+	<_model.h>
+	<_inputs.h>
+	<_textureloader.h>
+	<_parallax.h>
+	<_skybox.h>
+	<_sprite.h>
+	<_timer.h>
+	<_3dmodelloader.h>
+	<_camera.h>
+	<_bullets.h>
+	<_collisioncheck.h>
+	<_sounds.h>
+	<_scene.h>
+
+1763564369 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_menu.h
+	"_scene.h"
+	<string>
+	<Windows.h>
+
+1763564791 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_3dmodelloader.cpp
+	"_3dmodelloader.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_bullets.cpp
+	"_bullets.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_camera.cpp
+	"_camera.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_collisioncheck.cpp
+	"_collisioncheck.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_enemy.cpp
+	"_Enemy.h"
+
+1763502004 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_enemy.h
+	<_3dmodelloader.h>
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_inputs.cpp
+	"_inputs.h"
+
+1763564154 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_level1.cpp
+	"_level1.h"
+
+1763587470 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_level2.cpp
+	"_level2.h"
+	<cstdio>
+
+1763564407 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_level3.cpp
+	"_level3.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_light.cpp
+	"_light.h"
+
+1763564401 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_menu.cpp
+	"_menu.h"
+	<GL/gl.h>
+	<iostream>
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_model.cpp
+	"_model.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_parallax.cpp
+	"_parallax.h"
+
+1763586374 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_player.cpp
+	"_player.h"
+
+1763564349 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_scenemanager.cpp
+	"_scenemanager.h"
+	<iostream>
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_skybox.cpp
+	"_skybox.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_sounds.cpp
+	"_sounds.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_sprite.cpp
+	"_sprite.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_textureloader.cpp
+	"_textureloader.h"
+
+1763502006 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_timer.cpp
+	"_timer.h"
+
+1763564349 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_scene.cpp
+	"_scene.h"
+
+1763586374 source:c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\src\_player2.cpp
+	"_player2.h"
+
+1763586374 c:\users\danie\onedrive\desktop\3dgames-2025\gameproject\include\_player2.h
+	<_common.h>
+	<_3dmodelloader.h>
+
